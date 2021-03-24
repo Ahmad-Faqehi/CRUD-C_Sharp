@@ -1,0 +1,10 @@
+C:\Users\alfaq\source\repos\Libery\Libery\bin\Debug\Libery.exe.config
+C:\Users\alfaq\source\repos\Libery\Libery\bin\Debug\Libery.exe
+C:\Users\alfaq\source\repos\Libery\Libery\bin\Debug\Libery.pdb
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.csprojAssemblyReference.cache
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.Form1.resources
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.Properties.Resources.resources
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.csproj.GenerateResource.cache
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.exe
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.pdb
+C:\Users\alfaq\source\repos\Libery\Libery\obj\Debug\Libery.Libray.resources
